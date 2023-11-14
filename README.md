@@ -67,7 +67,7 @@ Get Tasks response:
 
 Delete Task response:
 
-```graphql
+```json
 {
     "data": {
         "message": "Карточка успешно удалена"
